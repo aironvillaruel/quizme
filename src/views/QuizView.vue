@@ -280,7 +280,7 @@ export default {
     <div
       class="w-3/4 md:w-1/4 flex flex-row border-3 shadow-xl border-white rounded-xl p-2 gap-2 justify-center items-center"
     >
-      <img src="/public/stopwatch.png" class="w-10" alt="" />
+      <img src="/public/Stopwatch.png" class="w-10" alt="" />
       <div
         class="h-2 rounded-xl transition-all duration-1000"
         :style="{
