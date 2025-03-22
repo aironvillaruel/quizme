@@ -33,7 +33,7 @@ export default {
       <div class="flex justify-center items-center mt-10">
         <button
           @click="playAudio"
-          class=" jua-regular cursor-pointer hover:scale-105 transition-all duration-300 hover:underline"
+          class="jua-regular cursor-pointer hover:scale-105 transition-all duration-300 hover:underline"
         >
           Click me to play
         </button>
@@ -48,8 +48,8 @@ export default {
           always here praying and cheering for you. Lagi mong iovercome 'yan haa Kahit anong
           mangyari I'm always proud sa mga na achieve mo at maachieve mo. "I may not always find the
           right words, but when I write for someone, it’s always genuine, sorry sa mga times na
-          minsan wala ako and alam kong naiintindihan mo rin yun. Ayun lang i love you sheeyy, Happy
-          Monthsary poo! ❤ ❤ ❤ <br />
+          minsan wala ako and alam kong naiintindihan mo rin yun, sana makita ko na si coco jk
+          HAHAHAHAHA. Ayun lang i love you sheeyy, Happy Monthsary poo! ❤ ❤ ❤ <br />
           <div class="flex justify-end">- Aiii</div>
 
           <div class="flex flex-col gap-3 justify-center items-center">
