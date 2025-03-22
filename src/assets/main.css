@@ -1,0 +1,11 @@
+@import './base.css';
+@import "tailwindcss";
+
+
+@theme {
+  --color-skin-400: #B5828C;
+  --color-skin-300: #E5989B;
+  --color-skin-200: #FFB4A2;
+  --color-skin-100: #FFCDB2;
+
+}
